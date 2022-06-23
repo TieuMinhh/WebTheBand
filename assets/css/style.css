@@ -584,7 +584,7 @@ html {
 .modal .modal-container {
   background: #fff;
   width: 900px;
-  max-width: calc(100%-30px);  /*Độ lớn khung buy tickets sẽ thay đổi theo khi kéo chuột */
+  max-width: calc(100%-32px);  /*Độ lớn khung buy tickets sẽ thay đổi theo khi kéo chuột */
   min-height: 200px;
   position: relative;
 
